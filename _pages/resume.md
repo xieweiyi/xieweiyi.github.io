@@ -86,7 +86,7 @@ Eight years of algorithm development in computer vision, highly skilled in objec
   - Machine Learning toolkits: 
     Pytorch, Tensorflow, scikit-learn
   - Algorithms:
-    Evolutionary algorithms, Deep Learning (CNN, GNN, RNN), Support Vector Machines, Graph Modeling, Random process.
+    Evolutionary algorithms, Deep Learning (CNN, GNN, RNN), Support Vector Machines, Graph Modeling, Stochastic process.
   - Programming: 
     Python, C/C++, Matlab, SQL, Java, Matlab, Git, Bash
   - Writing: Latex (Overleaf), Markdown (Typora), English, Chinese
